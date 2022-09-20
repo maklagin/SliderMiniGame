@@ -11,6 +11,8 @@
 		7D16B9E628D9D1B000FAA089 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D16B9E528D9D1B000FAA089 /* ContentView.swift */; };
 		7D16B9E828D9D1B100FAA089 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D16B9E728D9D1B100FAA089 /* Assets.xcassets */; };
 		7D16B9EB28D9D1B100FAA089 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D16B9EA28D9D1B100FAA089 /* Preview Assets.xcassets */; };
+		7D16B9F228D9D24C00FAA089 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D16B9F128D9D24C00FAA089 /* SliderView.swift */; };
+		7D16B9F628D9D3C000FAA089 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D16B9F528D9D3C000FAA089 /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		7D16B9E528D9D1B000FAA089 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7D16B9E728D9D1B100FAA089 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D16B9EA28D9D1B100FAA089 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7D16B9F128D9D24C00FAA089 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
+		7D16B9F528D9D3C000FAA089 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				7D16B9E328D9D1B000FAA089 /* SliderMiniGameApp.swift */,
 				7D16B9E528D9D1B000FAA089 /* ContentView.swift */,
+				7D16B9F128D9D24C00FAA089 /* SliderView.swift */,
+				7D16B9F528D9D3C000FAA089 /* ButtonView.swift */,
 				7D16B9E728D9D1B100FAA089 /* Assets.xcassets */,
 				7D16B9E928D9D1B100FAA089 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				7D16B9E628D9D1B000FAA089 /* ContentView.swift in Sources */,
+				7D16B9F228D9D24C00FAA089 /* SliderView.swift in Sources */,
+				7D16B9F628D9D3C000FAA089 /* ButtonView.swift in Sources */,
 				7D16B9E428D9D1B000FAA089 /* SliderMiniGameApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
